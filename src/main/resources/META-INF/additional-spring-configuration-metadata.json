@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.application.delimiter",
+    "type": "java.lang.String",
+    "description": "delimiter to use in application operations'"
+  },
+  {
+    "name": "spring.application.email_regex",
+    "type": "java.lang.String",
+    "description": "email validation regex'"
+  },
+  {
+    "name": "initial.app.message",
+    "type": "java.lang.String",
+    "description": "initial application message"
+  }
+]}
